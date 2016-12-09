@@ -1,2 +1,2 @@
 # react_sample
-## [Hello, world.](./hello_world)
+1. [Hello, world.](./hello_world)
